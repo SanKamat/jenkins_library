@@ -1,3 +1,3 @@
-def call(){
-  echo "shared libraries echo"
+def call(string val){
+  echo "${val}"
 }
